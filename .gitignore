@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+onlychat.db
+media_vault/
+node_modules/
+dist/
+*.session
